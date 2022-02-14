@@ -10,7 +10,10 @@ Link Tinkercad: https://www.tinkercad.com/things/ewjf1N0J1tw-detector-de-gas/edi
 
 ## Referências: 
 https://www.youtube.com/watch?v=zhkH4Bh2qqE&t=3333s
+
 https://www.youtube.com/watch?v=pirgcglRaiw
+
 https://www.youtube.com/watch?v=hnpjYx-MJPM&t=258s
+
 Livro "Avr E Arduino: Técnicas De Projeto" por Charles Borges De Lima E Marco V. M. Villaça
 
